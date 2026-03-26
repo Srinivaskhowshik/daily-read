@@ -1,0 +1,37 @@
+name: Daily Article Scraper
+
+on:
+  schedule:
+    # Runs every day at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        env:
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
+        run: node scraper.js
+
+      - name: Commit updated articles.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Daily Scraper Bot"
+          git add articles.json
+          git diff --staged --quiet || git commit -m "chore: update articles $(date -u '+%Y-%m-%d')"
+          git push
