@@ -1,0 +1,14 @@
+{
+  "name": "the-daily-read",
+  "version": "1.0.0",
+  "description": "Daily digest of Guardian Opinion, Aeon, Big Think, and Psyche articles",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

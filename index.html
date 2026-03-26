@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Daily Read</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0d0d0d;
+      --surface: #161616;
+      --border: #2a2a2a;
+      --text: #e8e4de;
+      --muted: #7a7570;
+      --accent: #c8a96e;
+      --accent2: #7eb8a4;
+      --hover-bg: #1e1e1e;
+
+      --guardian: #e05c3a;
+      --aeon: #7eb8a4;
+      --bigthink: #9b8ec4;
+      --psyche: #c8a96e;
+    }
+    [data-theme="light"] {
+      --bg: #f5f2ed;
+      --surface: #ffffff;
+      --border: #e0dbd3;
+      --text: #1a1814;
+      --muted: #9a948d;
+      --accent: #b8893e;
+      --accent2: #5a9a87;
+      --hover-bg: #eeebe5;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    /* ── Header ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      backdrop-filter: blur(12px);
+    }
+
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.3rem;
+      letter-spacing: 0.02em;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); }
+
+    .header-right { display: flex; align-items: center; gap: 1.2rem; }
+
+    .date-label {
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .theme-btn {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 6px;
+      width: 32px;
+      height: 32px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      display: grid;
+      place-items: center;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .theme-btn:hover { background: var(--hover-bg); border-color: var(--accent); }
+
+    /* ── Filters ── */
+    .filters {
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .filter-label {
+      font-size: 0.68rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-right: 0.4rem;
+    }
+
+    .chip {
+      padding: 0.3rem 0.85rem;
+      border-radius: 100px;
+      border: 1px solid var(--border);
+      background: none;
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-family: 'DM Sans', sans-serif;
+      cursor: pointer;
+      transition: all 0.18s;
+      letter-spacing: 0.03em;
+    }
+    .chip:hover { border-color: var(--accent); color: var(--text); }
+    .chip.active { background: var(--accent); border-color: var(--accent); color: #0d0d0d; font-weight: 500; }
+    .chip[data-source="guardian"].active { background: var(--guardian); border-color: var(--guardian); }
+    .chip[data-source="aeon"].active    { background: var(--aeon);     border-color: var(--aeon); color: #0d0d0d; }
+    .chip[data-source="bigthink"].active{ background: var(--bigthink); border-color: var(--bigthink); color: #fff; }
+    .chip[data-source="psyche"].active  { background: var(--psyche);   border-color: var(--psyche); }
+
+    .spacer { flex: 1; }
+
+    .bookmarks-toggle {
+      padding: 0.3rem 0.85rem;
+      border-radius: 100px;
+      border: 1px solid var(--border);
+      background: none;
+      color: var(--muted);
+      font-size: 0.75rem;
+      font-family: 'DM Sans', sans-serif;
+      cursor: pointer;
+      transition: all 0.18s;
+      display: flex; align-items: center; gap: 0.35rem;
+    }
+    .bookmarks-toggle:hover { border-color: var(--accent); color: var(--text); }
+    .bookmarks-toggle.active { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Article count ── */
+    .count-bar {
+      padding: 0.6rem 2rem;
+      font-size: 0.7rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* ── Article List ── */
+    #articles-list {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 1rem 2rem 4rem;
+    }
+
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 1.1rem;
+      padding: 1.1rem 0.6rem;
+      border-bottom: 1px solid var(--border);
+      text-decoration: none;
+      color: inherit;
+      border-radius: 6px;
+      transition: background 0.15s;
+      cursor: pointer;
+      position: relative;
+      animation: fadeUp 0.4s ease both;
+    }
+    .article-item:hover { background: var(--hover-bg); }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .article-thumb {
+      width: 72px;
+      height: 52px;
+      border-radius: 4px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: var(--border);
+    }
+
+    .article-thumb-placeholder {
+      width: 72px;
+      height: 52px;
+      border-radius: 4px;
+      flex-shrink: 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      display: grid;
+      place-items: center;
+      font-size: 1.2rem;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-source-tag {
+      font-size: 0.62rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 500;
+      margin-bottom: 0.3rem;
+    }
+    .source-guardian { color: var(--guardian); }
+    .source-aeon     { color: var(--aeon); }
+    .source-bigthink { color: var(--bigthink); }
+    .source-psyche   { color: var(--psyche); }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.97rem;
+      line-height: 1.4;
+      color: var(--text);
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 0.25rem;
+    }
+
+    .article-meta {
+      font-size: 0.7rem;
+      color: var(--muted);
+    }
+
+    .bookmark-btn {
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 1rem;
+      padding: 0.2rem;
+      flex-shrink: 0;
+      transition: color 0.15s, transform 0.15s;
+      align-self: center;
+    }
+    .bookmark-btn:hover { color: var(--accent); transform: scale(1.15); }
+    .bookmark-btn.saved { color: var(--accent); }
+
+    /* ── Empty / Loading ── */
+    .state-msg {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.8;
+    }
+    .state-msg strong { display: block; font-family: 'Playfair Display', serif; font-size: 1.3rem; color: var(--text); margin-bottom: 0.5rem; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.7rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      letter-spacing: 0.06em;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+
+    @media (max-width: 600px) {
+      header { padding: 0 1rem; }
+      .filters, .count-bar, #articles-list { padding-left: 1rem; padding-right: 1rem; }
+      .article-thumb, .article-thumb-placeholder { width: 56px; height: 42px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="#"><span>✦</span> The Daily Read</a>
+  <div class="header-right">
+    <span class="date-label" id="today-date"></span>
+    <button class="theme-btn" id="theme-btn" title="Toggle theme">☽</button>
+  </div>
+</header>
+
+<div class="filters">
+  <span class="filter-label">Source</span>
+  <button class="chip active" data-source="all">All</button>
+  <button class="chip" data-source="guardian">Guardian</button>
+  <button class="chip" data-source="aeon">Aeon</button>
+  <button class="chip" data-source="bigthink">Big Think</button>
+  <button class="chip" data-source="psyche">Psyche</button>
+  <div class="spacer"></div>
+  <button class="bookmarks-toggle" id="bookmarks-toggle">🔖 Saved</button>
+</div>
+
+<div class="count-bar" id="count-bar">Loading articles…</div>
+
+<main id="articles-list"></main>
+
+<footer>
+  The Daily Read · Links open in original source &nbsp;·&nbsp;
+  <a href="https://github.com" target="_blank">GitHub</a> for daily scraper
+</footer>
+
+<script>
+  // ── Theme ──
+  const themeBtn = document.getElementById('theme-btn');
+  const html = document.documentElement;
+  const savedTheme = localStorage.getItem('theme') || 'dark';
+  html.dataset.theme = savedTheme;
+  themeBtn.textContent = savedTheme === 'dark' ? '☀' : '☽';
+  themeBtn.addEventListener('click', () => {
+    const next = html.dataset.theme === 'dark' ? 'light' : 'dark';
+    html.dataset.theme = next;
+    localStorage.setItem('theme', next);
+    themeBtn.textContent = next === 'dark' ? '☀' : '☽';
+  });
+
+  // ── Date ──
+  document.getElementById('today-date').textContent =
+    new Date().toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' });
+
+  // ── Bookmarks ──
+  const getBookmarks = () => JSON.parse(localStorage.getItem('bookmarks') || '[]');
+  const saveBookmarks = b => localStorage.setItem('bookmarks', JSON.stringify(b));
+
+  // ── State ──
+  let allArticles = [];
+  let currentSource = 'all';
+  let showBookmarks = false;
+
+  // ── Filters ──
+  document.querySelectorAll('.chip').forEach(c => {
+    c.addEventListener('click', () => {
+      document.querySelectorAll('.chip').forEach(x => x.classList.remove('active'));
+      c.classList.add('active');
+      currentSource = c.dataset.source;
+      showBookmarks = false;
+      document.getElementById('bookmarks-toggle').classList.remove('active');
+      render();
+    });
+  });
+
+  document.getElementById('bookmarks-toggle').addEventListener('click', function() {
+    showBookmarks = !showBookmarks;
+    this.classList.toggle('active', showBookmarks);
+    render();
+  });
+
+  // ── Render ──
+  function render() {
+    const list = document.getElementById('articles-list');
+    const countBar = document.getElementById('count-bar');
+    let filtered = allArticles;
+
+    if (showBookmarks) {
+      const bm = getBookmarks();
+      filtered = allArticles.filter(a => bm.includes(a.url));
+    } else if (currentSource !== 'all') {
+      filtered = allArticles.filter(a => a.source === currentSource);
+    }
+
+    countBar.textContent = showBookmarks
+      ? `${filtered.length} saved article${filtered.length !== 1 ? 's' : ''}`
+      : `${filtered.length} article${filtered.length !== 1 ? 's' : ''} today`;
+
+    if (filtered.length === 0) {
+      list.innerHTML = `<div class="state-msg"><strong>${showBookmarks ? 'No saved articles' : 'No articles yet'}</strong>${showBookmarks ? 'Bookmark articles to find them here.' : 'Run the scraper to populate today\'s articles.'}</div>`;
+      return;
+    }
+
+    const bookmarks = getBookmarks();
+    list.innerHTML = '';
+
+    filtered.forEach((article, i) => {
+      const item = document.createElement('div');
+      item.className = 'article-item';
+      item.style.animationDelay = `${i * 30}ms`;
+
+      const thumb = article.image
+        ? `<img class="article-thumb" src="${article.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=\'article-thumb-placeholder\'>${sourceEmoji(article.source)}</div>'">`
+        : `<div class="article-thumb-placeholder">${sourceEmoji(article.source)}</div>`;
+
+      const isSaved = bookmarks.includes(article.url);
+
+      item.innerHTML = `
+        ${thumb}
+        <div class="article-body">
+          <div class="article-source-tag source-${article.source}">${sourceName(article.source)}</div>
+          <div class="article-title">${escHtml(article.title)}</div>
+          <div class="article-meta">${article.author ? escHtml(article.author) + ' · ' : ''}${article.date || ''}</div>
+        </div>
+        <button class="bookmark-btn ${isSaved ? 'saved' : ''}" title="${isSaved ? 'Remove bookmark' : 'Save'}" data-url="${escHtml(article.url)}">
+          ${isSaved ? '🔖' : '🔗'}
+        </button>
+      `;
+
+      // Open article
+      item.addEventListener('click', (e) => {
+        if (e.target.closest('.bookmark-btn')) return;
+        window.open(article.url, '_blank', 'noopener');
+      });
+
+      // Bookmark
+      item.querySelector('.bookmark-btn').addEventListener('click', (e) => {
+        e.stopPropagation();
+        const btn = e.currentTarget;
+        const url = btn.dataset.url;
+        let bm = getBookmarks();
+        if (bm.includes(url)) {
+          bm = bm.filter(x => x !== url);
+          btn.classList.remove('saved');
+          btn.textContent = '🔗';
+          btn.title = 'Save';
+        } else {
+          bm.push(url);
+          btn.classList.add('saved');
+          btn.textContent = '🔖';
+          btn.title = 'Remove bookmark';
+        }
+        saveBookmarks(bm);
+        if (showBookmarks) render();
+      });
+
+      list.appendChild(item);
+    });
+  }
+
+  function sourceEmoji(s) {
+    return { guardian: '🗞', aeon: '💡', bigthink: '🧠', psyche: '🌀' }[s] || '📰';
+  }
+  function sourceName(s) {
+    return { guardian: 'The Guardian', aeon: 'Aeon', bigthink: 'Big Think', psyche: 'Psyche' }[s] || s;
+  }
+  function escHtml(str) {
+    return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // ── Load articles.json ──
+  async function loadArticles() {
+    try {
+      const res = await fetch('articles.json');
+      if (!res.ok) throw new Error('not found');
+      allArticles = await res.json();
+      render();
+    } catch {
+      // Show demo data if no articles.json yet
+      allArticles = DEMO_ARTICLES;
+      render();
+    }
+  }
+
+  // Demo data shown before first scrape
+  const DEMO_ARTICLES = [
+    { source: 'guardian', title: 'Why democracy needs a different kind of politics', url: 'https://theguardian.com/commentisfree', author: 'Nesrine Malik', date: 'Today', image: '' },
+    { source: 'aeon', title: 'The philosophy of time: why the present feels so urgent', url: 'https://aeon.co/essays', author: 'Dean Buonomano', date: 'Today', image: '' },
+    { source: 'bigthink', title: 'The neuroscience of belief and how it shapes reality', url: 'https://bigthink.com', author: 'Big Think', date: 'Today', image: '' },
+    { source: 'psyche', title: 'Learning to sit with uncertainty in an age of information', url: 'https://psyche.co', author: 'Psyche Editors', date: 'Today', image: '' },
+    { source: 'guardian', title: 'How cities are reinventing themselves after the pandemic', url: 'https://theguardian.com/commentisfree', author: 'Aditya Chakrabortty', date: 'Today', image: '' },
+    { source: 'aeon', title: 'Moral luck and why we judge people for what they can\'t control', url: 'https://aeon.co/essays', author: 'Thomas Nagel', date: 'Today', image: '' },
+  ];
+
+  loadArticles();
+</script>
+</body>
+</html>
