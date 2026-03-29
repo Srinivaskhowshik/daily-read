@@ -393,7 +393,7 @@
         <div class="article-body">
           <div class="article-source-tag source-${article.source}">${sourceName(article.source)}</div>
           <div class="article-title">${escHtml(article.title)}</div>
-          <div class="article-meta">${article.author ? escHtml(article.author) + ' · ' : ''}${article.date || ''}</div>
+          <div class="article-meta">${article.author ? escHtml(article.author) + ' · ' : ''}<span class="article-date">${article.date || ''}</span></div>
         </div>
         <button class="bookmark-btn ${isSaved ? 'saved' : ''}" title="${isSaved ? 'Remove bookmark' : 'Save'}" data-url="${escHtml(article.url)}">
           ${isSaved ? '🔖' : '🔗'}
