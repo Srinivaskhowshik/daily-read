@@ -1,29 +1,47 @@
 [
   {
     "source": "aeon",
-    "title": "The meatseller",
-    "url": "https://aeon.co/videos/brutal-beautiful-animation-traces-an-african-teens-journey-to-italy",
+    "title": "Life recombined",
+    "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
     "author": "Aeon Video",
-    "publishedAt": "2026-05-27T10:01:00.000Z",
-    "date": "27 May 2026",
-    "image": "https://images.aeonmedia.co/images/b13023e5-c705-4bd3-9afe-7ba9c3676711/the-meatseller-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "publishedAt": "2026-05-28T10:01:00.000Z",
+    "date": "28 May 2026",
+    "image": "https://images.aeonmedia.co/images/b89b20ce-18ef-49ef-b2ce-615d6bb9cd62/liferecombined_textless.png?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Science’s three big hopes for finding alien life",
-    "url": "https://bigthink.com/starts-with-a-bang/three-big-hopes-alien-life/",
+    "title": "Yes, scientists can be hostile to new ideas. So should you",
+    "url": "https://bigthink.com/starts-with-a-bang/scientists-hostile-new-ideas/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-05-27T06:00:00.000Z",
-    "date": "27 May 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2021/11/Supagif.gif?w=640"
+    "publishedAt": "2026-05-28T06:00:00.000Z",
+    "date": "28 May 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/02/Artists-Impression-of-Colliding-Black-Holes.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "The roots of goodness",
-    "url": "https://psyche.co/portraits/holocaust-survivor-ervin-staub-how-to-stop-evil-taking-root",
-    "author": "Michael Bond",
-    "publishedAt": "2026-05-27T10:00:00.000Z",
-    "date": "27 May 2026",
-    "image": "https://images.aeonmedia.co/images/e42863e1-bb34-417e-bc5f-e6d5080723d5/sz-final-staub-41.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto"
+    "title": "Five tips for effective language learning",
+    "url": "https://psyche.co/videos/go-beyond-the-apps-to-build-language-learning-skills-that-stick",
+    "author": "Psyche Video",
+    "publishedAt": "2026-05-28T10:01:00.000Z",
+    "date": "28 May 2026",
+    "image": "https://images.aeonmedia.co/images/b21b1c12-255c-4314-a45b-2f88b91eb4dc/five-tips-for-effective-language-learning-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "aeon",
+    "title": "Flickering Enlightenment",
+    "url": "https://aeon.co/essays/lets-save-the-enlightenment-baby-from-its-muddied-bathwater",
+    "author": "Eliane Glaser",
+    "publishedAt": "2026-05-28T10:00:00.000Z",
+    "date": "28 May 2026",
+    "image": "https://images.aeonmedia.co/images/b47293d2-92aa-4622-9677-a01d53cd909a/essay-the_enlightenment_final2.jpg?width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "psyche",
+    "title": "The special kind of knowledge that can’t be put into words",
+    "url": "https://psyche.co/ideas/the-special-kind-of-knowledge-that-cant-be-put-into-words",
+    "author": "Matt Duncan",
+    "publishedAt": "2026-05-28T10:00:00.000Z",
+    "date": "28 May 2026",
+    "image": "https://images.aeonmedia.co/images/e0a4acc4-452f-4fbe-9b27-26edfdcc6fe5/this-final-gettyimages-505808896.jpg?top=129&left=0&cropWidth=2448&cropHeight=1377&width=1200&quality=75&format=auto"
   }
 ]
