@@ -1,47 +1,11 @@
 [
   {
-    "source": "aeon",
-    "title": "The steam engine",
-    "url": "https://aeon.co/videos/how-an-ancient-curiosity-evolved-to-power-the-modern-world",
-    "author": "Aeon Video",
-    "publishedAt": "2026-06-08T10:01:00.000Z",
-    "date": "8 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/8ff6522b-e44a-42ce-9346-8a26c998f633/the-steam-engine-landscape-1.jpg?width=1200&quality=75&format=auto"
-  },
-  {
     "source": "bigthink",
-    "title": "From the smallest to the biggest objects in space",
-    "url": "https://bigthink.com/starts-with-a-bang/smallest-biggest-objects-space/",
+    "title": "The scientific value, and limits, of the Anthropic Principle",
+    "url": "https://bigthink.com/starts-with-a-bang/we-exist/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-06-08T06:00:00.000Z",
-    "date": "8 Jun 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?quality=85&w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "The keeper",
-    "url": "https://psyche.co/videos/a-beekeeper-braves-a-fatal-allergy-to-tend-the-rooftops-of-new-york",
-    "author": "Psyche Video",
-    "publishedAt": "2026-06-08T10:01:00.000Z",
-    "date": "8 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/c0cecba9-877f-4a2c-a9d6-7baed98c4826/the-keeper-landscape-2-v2.jpg?top=357&left=328&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "aeon",
-    "title": "What shape is the Earth?",
-    "url": "https://aeon.co/essays/why-did-measuring-earths-true-shape-matter-for-science",
-    "author": "Miguel Ohnesorge",
-    "publishedAt": "2026-06-08T10:00:00.000Z",
-    "date": "8 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/08cfa437-f506-451a-b888-d6a267e1130b/essay-final-skm-96_2_0026-copy.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "What came knocking",
-    "url": "https://psyche.co/turning-points/our-dog-died-then-i-started-noticing-the-odd-sounds",
-    "author": "Michael Jawer",
-    "publishedAt": "2026-06-08T10:00:00.000Z",
-    "date": "8 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/be01cc36-957e-4ed2-9a2f-9b752da29693/the_red_bellied_woodpecker_picus_carolinus_1991_163_14.jpg?top=123&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
+    "publishedAt": "2026-06-09T06:00:00.000Z",
+    "date": "9 Jun 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2022/08/astrobio_award_0-e1724611906195.jpg?quality=85&w=640"
   }
 ]
