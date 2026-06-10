@@ -1,11 +1,29 @@
 [
   {
+    "source": "aeon",
+    "title": "Bay of smokes",
+    "url": "https://aeon.co/videos/one-day-in-1943-smog-descended-on-los-angeles-it-never-really-left",
+    "author": "Aeon Video",
+    "publishedAt": "2026-06-10T10:01:00.000Z",
+    "date": "10 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/bc531b9f-c3eb-4e19-ad13-e68cb4d2f631/bay-of-smokes-landscape-1.jpg?width=1200&quality=75&format=auto"
+  },
+  {
     "source": "bigthink",
-    "title": "The scientific value, and limits, of the Anthropic Principle",
-    "url": "https://bigthink.com/starts-with-a-bang/we-exist/",
+    "title": "10 big questions about the search for life beyond Earth",
+    "url": "https://bigthink.com/starts-with-a-bang/big-questions-life-beyond-earth/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-06-09T06:00:00.000Z",
-    "date": "9 Jun 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2022/08/astrobio_award_0-e1724611906195.jpg?quality=85&w=640"
+    "publishedAt": "2026-06-10T06:00:00.000Z",
+    "date": "10 Jun 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2021/11/transit.png?quality=80&w=627"
+  },
+  {
+    "source": "psyche",
+    "title": "How to talk to someone who has dementia",
+    "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
+    "author": "Nathaniel Chin & Caoilfhinn Rauwerdink",
+    "publishedAt": "2026-06-10T10:00:00.000Z",
+    "date": "10 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/1ca31654-f640-442e-86c2-1bf85666c038/02a2667.jpg?top=156&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=auto"
   }
 ]
