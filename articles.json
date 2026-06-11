@@ -1,29 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Bay of smokes",
-    "url": "https://aeon.co/videos/one-day-in-1943-smog-descended-on-los-angeles-it-never-really-left",
+    "title": "Don’t touch the art",
+    "url": "https://aeon.co/videos/when-artworks-dare-audiences-to-break-a-cardinal-museum-rule",
     "author": "Aeon Video",
-    "publishedAt": "2026-06-10T10:01:00.000Z",
-    "date": "10 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/bc531b9f-c3eb-4e19-ad13-e68cb4d2f631/bay-of-smokes-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "publishedAt": "2026-06-11T10:01:00.000Z",
+    "date": "11 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/8920d9f4-a8ae-49de-be7a-ca3659228e70/dont-touch-the-art-landscape-1.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "10 big questions about the search for life beyond Earth",
-    "url": "https://bigthink.com/starts-with-a-bang/big-questions-life-beyond-earth/",
+    "title": "Move over, giant meteor. Here’s what the largest comet would do to Earth",
+    "url": "https://bigthink.com/starts-with-a-bang/largest-comet-earth/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-06-10T06:00:00.000Z",
-    "date": "10 Jun 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2021/11/transit.png?quality=80&w=627"
+    "publishedAt": "2026-06-11T06:00:00.000Z",
+    "date": "11 Jun 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2022/02/Planetoid_crashing_into_primordial_Earth-1200x908-1.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "How to talk to someone who has dementia",
-    "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
-    "author": "Nathaniel Chin & Caoilfhinn Rauwerdink",
-    "publishedAt": "2026-06-10T10:00:00.000Z",
-    "date": "10 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/1ca31654-f640-442e-86c2-1bf85666c038/02a2667.jpg?top=156&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=auto"
+    "title": "How needing others became a source of shame for Americans",
+    "url": "https://psyche.co/ideas/how-needing-others-became-a-source-of-shame-for-americans",
+    "author": "Susan J Matt",
+    "publishedAt": "2026-06-11T10:00:00.000Z",
+    "date": "11 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/c1f63a62-d251-4b7b-b2d8-0d2bfadabcd8/sz-master-pnp-fsac-1a34000-1a34000-1a34096u.jpg?top=201&left=0&cropWidth=2592&cropHeight=1458&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "aeon",
+    "title": "The no-human future",
+    "url": "https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really",
+    "author": "Vincent Lê",
+    "publishedAt": "2026-06-11T10:00:00.000Z",
+    "date": "11 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/01976b67-61f3-43e0-90da-d072cc4854a7/essay-nick-2.jpg?width=1200&quality=75&format=auto"
   }
 ]
