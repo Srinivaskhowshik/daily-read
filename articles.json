@@ -1,38 +1,29 @@
 [
   {
     "source": "aeon",
-    "title": "What is this rock?",
-    "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
-    "author": "John MacDonald",
-    "publishedAt": "2026-06-16T10:00:00.000Z",
-    "date": "16 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/00733707-9f99-48ed-a706-747c3432b00f/essay-20240218_131217.jpg?width=1200&quality=75&format=auto"
+    "title": "Female philosophers: Héloïse",
+    "url": "https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise",
+    "author": "Aeon Video",
+    "publishedAt": "2026-06-17T10:01:00.000Z",
+    "date": "17 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/1c998fb5-ae61-4708-9332-d699a3118ae7/heloise-landscape-v3.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "The most overlooked fact about JWST’s Little Red Dots",
-    "url": "https://bigthink.com/starts-with-a-bang/overlooked-fact-jwst-little-red-dots/",
+    "title": "Rarest elements reveal planets eaten by white dwarfs",
+    "url": "https://bigthink.com/starts-with-a-bang/elements-planets-white-dwarfs/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-06-16T06:00:00.000Z",
-    "date": "16 Jun 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2025/01/LRD_subsample-e1781556164697.jpg?quality=85&w=640"
+    "publishedAt": "2026-06-17T06:00:00.000Z",
+    "date": "17 Jun 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/06/A_disc_of_rocky_debris_from_a_disrupted_planetesimal_geminiann17003a.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "How to apologise",
-    "url": "https://psyche.co/videos/apologies-vary-widely-but-heres-what-effective-ones-share",
-    "author": "Psyche Video",
-    "publishedAt": "2026-06-16T10:01:00.000Z",
-    "date": "16 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/2d8c4d5f-ba34-46d4-b501-ec3696e50c73/how-to-apologize-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "I cognitively shuffle myself to sleep",
-    "url": "https://psyche.co/notes-to-self/i-couldnt-sleep-then-i-tried-cognitive-shuffling",
-    "author": "Amy Arthur",
-    "publishedAt": "2026-06-16T10:00:00.000Z",
-    "date": "16 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/f3614773-3a1e-46f3-a671-96a4848b764f/v1-cognitive-shuffling.png?top=156&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=auto"
+    "title": "Struggling with creative work doesn’t mean you’re failing",
+    "url": "https://psyche.co/ideas/struggling-with-creative-work-doesnt-mean-youre-failing",
+    "author": "Chris Smith",
+    "publishedAt": "2026-06-17T10:00:00.000Z",
+    "date": "17 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/7b7bdebf-a991-4ee6-bce8-f3ed708257ba/sz-final-gettyimages-680787233.jpg?top=131&left=0&cropWidth=2512&cropHeight=1413&width=1200&quality=75&format=auto"
   }
 ]
