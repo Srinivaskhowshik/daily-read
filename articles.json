@@ -1,47 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Neanderthal 1",
-    "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species",
-    "author": "Aeon Video",
-    "publishedAt": "2026-06-18T10:01:00.000Z",
-    "date": "18 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/b066c75a-b1db-499c-9603-57da1ad47922/neanderthal-1-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "title": "Trauma creep",
+    "url": "https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something",
+    "author": "Lily Dunn",
+    "publishedAt": "2026-06-19T10:00:00.000Z",
+    "date": "19 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/9ee75f11-bd44-4444-a6d8-104d29a624dc/essay-final-gettyimages-1083067336.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "How a single atom contains the entire quantum Universe",
-    "url": "https://bigthink.com/starts-with-a-bang/entire-quantum-universe-inside-single-atom/",
+    "title": "Ask Ethan: How do space telescopes stay focused?",
+    "url": "https://bigthink.com/starts-with-a-bang/how-space-telescopes-focus/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-06-18T06:00:00.000Z",
-    "date": "18 Jun 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/01/atoms-1.jpg?quality=85&w=640"
+    "publishedAt": "2026-06-19T06:00:00.000Z",
+    "date": "19 Jun 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/04/big4.gif?w=640"
   },
   {
     "source": "psyche",
-    "title": "Bob’s funeral",
-    "url": "https://psyche.co/videos/jack-records-a-family-funeral-to-make-sense-of-the-strained-relations",
-    "author": "Psyche Video",
-    "publishedAt": "2026-06-18T10:01:00.000Z",
-    "date": "18 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/e553ef98-60a6-4d83-b12d-9cc266aefa63/bobs-funeral-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
+    "title": "The city that rewired my brain",
+    "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
+    "author": "Henrick Karoliszyn",
+    "publishedAt": "2026-06-19T10:00:00.000Z",
+    "date": "19 Jun 2026",
+    "image": "https://images.aeonmedia.co/images/8778ff0b-06ee-4468-bb02-4c12112dc757/v3-jazz-par304459.jpg?top=120&left=0&cropWidth=2288&cropHeight=1287&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "Words, words, words",
-    "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-    "author": "Martin Puchner",
-    "publishedAt": "2026-06-18T10:00:00.000Z",
-    "date": "18 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/d1fc119d-c759-4308-a214-118ac23b1a43/essay-final-gettyimages-1146426665.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "How to do less for your children",
-    "url": "https://psyche.co/guides/how-to-do-less-for-your-children",
-    "author": "Peter Gray",
-    "publishedAt": "2026-06-18T10:00:00.000Z",
-    "date": "18 Jun 2026",
-    "image": "https://images.aeonmedia.co/images/f1f0c925-6f23-4287-9b8d-2e65a214f2b2/sq-final-lon73515.jpg?top=171&left=0&cropWidth=2512&cropHeight=1413&width=1200&quality=75&format=auto"
+    "source": "bigthink",
+    "title": "A neuroscientist’s guide to protecting your brain, in 58 minutes",
+    "url": "https://bigthink.com/series/full-interview/science-of-memory/",
+    "author": "Lisa Genova",
+    "publishedAt": "2026-06-19T04:00:00.000Z",
+    "date": "19 Jun 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/06/Screenshot-2026-06-18-at-3.52.48-PM.png?quality=80&w=640"
   }
 ]
