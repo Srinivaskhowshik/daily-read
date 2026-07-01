@@ -1,11 +1,29 @@
 [
   {
+    "source": "aeon",
+    "title": "Noguchi’s New York animations",
+    "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
+    "author": "Aeon Video",
+    "publishedAt": "2026-07-01T10:01:00.000Z",
+    "date": "1 Jul 2026",
+    "image": "https://images.aeonmedia.co/images/a74cd503-1a1d-40d4-8db5-bac36e0df7d1/noguchis-new-york-landscape-3.jpg?width=1200&quality=75&format=auto"
+  },
+  {
     "source": "bigthink",
-    "title": "The most distant lensing cluster reveals a dark matter surprise",
-    "url": "https://bigthink.com/starts-with-a-bang/most-distant-lens-cluster-dark-matter/",
+    "title": "Is it finally time to take dark matter-free galaxies seriously?",
+    "url": "https://bigthink.com/starts-with-a-bang/dark-matter-free-galaxies/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-06-30T06:00:00.000Z",
-    "date": "30 Jun 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/06/JWSTcoverXLSSC122.jpg?quality=85&w=640"
+    "publishedAt": "2026-07-01T06:00:00.000Z",
+    "date": "1 Jul 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/07/DF9.png?quality=80&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "Tips and tools for navigating hearing loss",
+    "url": "https://psyche.co/guides/tips-and-tools-for-navigating-hearing-loss",
+    "author": "Faith Davis",
+    "publishedAt": "2026-07-01T10:00:00.000Z",
+    "date": "1 Jul 2026",
+    "image": "https://images.aeonmedia.co/images/00dfc68d-e39b-40d1-8da6-751d0a4548d5/v2-deaf-access.jpg?top=101&left=0&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=auto"
   }
 ]
