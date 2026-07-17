@@ -1,11 +1,20 @@
 [
   {
     "source": "bigthink",
-    "title": "The physical Universe isn’t made of pure mathematics alone",
-    "url": "https://bigthink.com/starts-with-a-bang/universe-made-pure-mathematics/",
+    "title": "Ask Ethan: Does Mars’s gravity prohibit human colonization?",
+    "url": "https://bigthink.com/starts-with-a-bang/mars-gravity-human-colonization/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-07-16T06:00:00.000Z",
-    "date": "16 Jul 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/02/Volume_dunivers-e1736197799913.png?quality=80&w=640"
+    "publishedAt": "2026-07-17T06:00:00.000Z",
+    "date": "17 Jul 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2013/05/origin-505.jpg?quality=85&w=640"
+  },
+  {
+    "source": "bigthink",
+    "title": "A philosopher’s guide to thinking for yourself in an age built to think for you",
+    "url": "https://bigthink.com/series/full-interview/philosophy-of-stupidity/",
+    "author": "Jonny Thomson",
+    "publishedAt": "2026-07-17T04:00:00.000Z",
+    "date": "17 Jul 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.42.39-AM.png?quality=80&w=640"
   }
 ]
