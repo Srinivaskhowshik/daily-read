@@ -1,11 +1,20 @@
 [
   {
     "source": "bigthink",
-    "title": "The sky is blue. The ocean is, too. But the reasons why are very different.",
-    "url": "https://bigthink.com/starts-with-a-bang/why-sky-ocean-blue/",
+    "title": "The incentive problem at the heart of modern science",
+    "url": "https://bigthink.com/the-well/the-incentive-problem-at-the-heart-of-modern-science/",
+    "author": "David Sloan",
+    "publishedAt": "2026-08-27T17:02:10.000Z",
+    "date": "27 Aug 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/08/The-Well-David-Sloan-Article-Art.jpg?quality=85&w=640"
+  },
+  {
+    "source": "bigthink",
+    "title": "The act of measuring reality alters what you’ll observe",
+    "url": "https://bigthink.com/starts-with-a-bang/measuring-reality-affect-observe/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-08-26T06:00:00.000Z",
-    "date": "26 Aug 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2022/05/sunrise-3334169_1280-1.webp?quality=85&w=640"
+    "publishedAt": "2026-08-27T06:00:00.000Z",
+    "date": "27 Aug 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/04/file-5cd71e3cd061c.jpg?quality=85&w=640"
   }
 ]
