@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "source": "aeon",
+    "title": "The planet is… up to something",
+    "url": "https://aeon.co/videos/is-this-artemis-ii-timelapse-the-pale-blue-dot-for-our-times",
+    "author": "Aeon Video",
+    "publishedAt": "2026-09-07T10:01:00.000Z",
+    "date": "7 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/ecd022e4-779f-4b7c-8b20-8c8e3ebae780/this-planet-is-up-to-something-landscape-1.jpg?width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "bigthink",
+    "title": "The “perfect cosmological principle” isn’t true for our Universe",
+    "url": "https://bigthink.com/starts-with-a-bang/perfect-cosmological-principle/",
+    "author": "Ethan Siegel",
+    "publishedAt": "2026-09-07T06:00:00.000Z",
+    "date": "7 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/02/editable.jpg?quality=85&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "Is it morally wrong to not take care of yourself?",
+    "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
+    "author": "Laura K Soter & Fan Yang",
+    "publishedAt": "2026-09-07T10:00:00.000Z",
+    "date": "7 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/bdc352d9-85f3-44b4-bcad-be060911b2fb/sz-beraud_-_trois_personnages_dans_un_cafe_vers_1890.jpg?top=163&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "aeon",
+    "title": "Continental divide",
+    "url": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
+    "author": "Shawn Miller",
+    "publishedAt": "2026-09-07T10:00:00.000Z",
+    "date": "7 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/7ceec72b-c3a7-478b-891f-6d9e32f1bbad/sz-final-essay-gettyimages-1151909862.jpg?width=1200&quality=75&format=auto"
+  }
+]
