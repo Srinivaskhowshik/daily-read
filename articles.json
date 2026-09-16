@@ -1,29 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Chasing la dolce vita",
-    "url": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
-    "author": "Ben Faccini",
-    "publishedAt": "2026-09-15T10:00:00.000Z",
-    "date": "15 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/5a315ba7-7976-4a29-8c59-16d548b4c941/essay-main-20260908_093350-1.jpg?width=1200&quality=75&format=auto"
+    "title": "The meaning of fake marble",
+    "url": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
+    "author": "Aeon Video",
+    "publishedAt": "2026-09-16T10:01:00.000Z",
+    "date": "16 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/5e4de778-04e2-44c4-951a-fe51f8eb24ea/the-meaning-of-fake-marble-landscape-1.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "One blip isn’t enough to declare “dark matter has been detected”",
-    "url": "https://bigthink.com/starts-with-a-bang/one-blip-dark-matter-detected/",
+    "title": "The information paradox at the heart of every black hole",
+    "url": "https://bigthink.com/starts-with-a-bang/paradox-black-hole/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-09-15T06:00:00.000Z",
-    "date": "15 Sept 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/09/LZdetector-e1789364244861.jpg?quality=85&w=640"
+    "publishedAt": "2026-09-16T06:00:00.000Z",
+    "date": "16 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2018/03/136953-136954-e1694477841962.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "Say yes to regret",
-    "url": "https://psyche.co/turning-points/how-a-to-do-task-stopped-the-ruminative-loop-of-my-grief",
-    "author": "Sandra Lamb",
-    "publishedAt": "2026-09-15T10:00:00.000Z",
-    "date": "15 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/4821438e-81c2-4ee7-90ac-608f4f2aaf9a/sz-emanuel-haas-w6fiivvwphs-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto"
+    "title": "A brief history of Viagra",
+    "url": "https://psyche.co/videos/viagra-has-its-upsides-sure-but-has-it-changed-sex-for-the-better",
+    "author": "Psyche Video",
+    "publishedAt": "2026-09-16T10:01:00.000Z",
+    "date": "16 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/0965e5d9-0ab7-44b7-8bef-0bb732694bd6/how-viagra-changed-the-world-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "psyche",
+    "title": "Terminal lucidity: when dying dementia patients regain awareness",
+    "url": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
+    "author": "Ariel Zeleznikow-Johnston",
+    "publishedAt": "2026-09-16T10:00:00.000Z",
+    "date": "16 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/bd355252-7815-4888-b3ba-e11d8508fce2/sz-panos_00285556.jpg?top=186&left=0&cropWidth=2192&cropHeight=1233&width=1200&quality=75&format=auto"
   }
 ]
