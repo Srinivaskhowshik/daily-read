@@ -1,38 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Animal eye",
-    "url": "https://aeon.co/videos/the-alien-worlds-beside-our-own-a-journey-into-animal-eyes",
-    "author": "Aeon Video",
-    "publishedAt": "2026-09-17T10:01:00.000Z",
-    "date": "17 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/8d250757-dd90-4110-aa97-f8bf526db8b9/animal-eye-landscape-1-v2.jpg?width=1200&quality=75&format=auto"
+    "title": "Cosmic amnesia",
+    "url": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
+    "author": "Richard Dyer",
+    "publishedAt": "2026-09-18T10:00:00.000Z",
+    "date": "18 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/899acddb-5f08-456f-b901-015a75d5199e/essay-artgw250114_simonnet_2400.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Do gravitational waves show evidence of wave-particle duality?",
-    "url": "https://bigthink.com/starts-with-a-bang/gravitational-waves-wave-particle-duality/",
+    "title": "Ask Ethan: How did atoms come to be?",
+    "url": "https://bigthink.com/starts-with-a-bang/how-atoms-come/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-09-17T06:00:00.000Z",
-    "date": "17 Sept 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/02/Artists-Impression-of-Colliding-Black-Holes.jpg?quality=85&w=640"
+    "publishedAt": "2026-09-18T06:00:00.000Z",
+    "date": "18 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2024/08/atoms.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "Go ahead, jump on the bandwagon",
-    "url": "https://psyche.co/notes-to-self/why-we-should-embrace-fair-weather-fandom",
-    "author": "Hannah Seo",
-    "publishedAt": "2026-09-17T10:00:00.000Z",
-    "date": "17 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/43b0892b-4cdb-4e82-9243-166b7c0d7142/sz-2026-06-12t191731z_1566143353_rc24slaw256b_rtrmadp_3_soccer-worldcup-mexico.jpg?top=136&left=0&cropWidth=2592&cropHeight=1458&width=1200&quality=75&format=auto"
+    "title": "Maxxing treats life as a problem when it’s a mystery",
+    "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
+    "author": "Håkon Evjemo",
+    "publishedAt": "2026-09-18T10:00:00.000Z",
+    "date": "18 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/0032d749-8bec-4102-bd8f-d93cf3f23e96/sz-justo-bullrich-qwu_53jiade-unsplash.jpg?top=209&left=0&cropWidth=4000&cropHeight=2250&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "Who will taste the cherries?",
-    "url": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
-    "author": "Liam Spradlin",
-    "publishedAt": "2026-09-17T10:00:00.000Z",
-    "date": "17 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/df3de1b9-0cd3-48a0-a054-36d0baf17bbe/essay-v1-.jpg?width=1200&quality=75&format=auto"
+    "source": "bigthink",
+    "title": "The gap between knowing better and doing better, and how to close it",
+    "url": "https://bigthink.com/series/full-interview/knowing-doing-gap/",
+    "author": "Tal Ben-Shahar",
+    "publishedAt": "2026-09-18T04:00:00.000Z",
+    "date": "18 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-11.15.35-AM.png?quality=80&w=640"
   }
 ]
