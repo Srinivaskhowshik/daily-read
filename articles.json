@@ -1,38 +1,47 @@
 [
   {
     "source": "aeon",
-    "title": "Britain’s last great airship",
-    "url": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
-    "author": "Aeon Video",
-    "publishedAt": "2026-09-24T10:01:00.000Z",
-    "date": "24 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/f74fe38c-14fa-4732-899f-b4cf68298cdd/britains-last-great-airship-landscape-1-v4.jpg?width=1200&quality=75&format=auto"
+    "title": "Reasoning together",
+    "url": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
+    "author": "Emilie Prattico",
+    "publishedAt": "2026-09-25T10:00:00.000Z",
+    "date": "25 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/d19c6cf8-eddc-49ec-a4c1-4c20fb6cd93e/essay-v2-2a2b9x3.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "“Donnie Darko” offers a time travel lesson you won’t find elsewhere",
-    "url": "https://bigthink.com/starts-with-a-bang/donnie-darko-lessons-physics-education-mortality/",
+    "title": "Ask Ethan: If intelligent alien life exists, will we make contact?",
+    "url": "https://bigthink.com/starts-with-a-bang/intelligent-alien-life-make-contact/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-09-24T06:00:00.000Z",
-    "date": "24 Sept 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/09/donnie-darko-physics_compressed.jpg?quality=85&w=640"
+    "publishedAt": "2026-09-25T06:00:00.000Z",
+    "date": "25 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2022/05/opo1701a-1-e1720379382184.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "The evil eye is irrational. Abandon it at your peril",
-    "url": "https://psyche.co/ideas/the-evil-eye-is-irrational-abandon-it-at-your-peril",
-    "author": "Timna Abramov",
-    "publishedAt": "2026-09-24T10:00:00.000Z",
-    "date": "24 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/ac69c0e8-c944-48d2-8854-de08b9cc3f8c/sz-gettyimages-2277777330.jpg?top=143&left=0&cropWidth=2736&cropHeight=1539&width=1200&quality=75&format=auto"
+    "title": "Signs of a highly sensitive person",
+    "url": "https://psyche.co/videos/how-to-know-if-youre-highly-sensitive-and-what-to-do-about-it",
+    "author": "Psyche Video",
+    "publishedAt": "2026-09-25T10:01:00.000Z",
+    "date": "25 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/96385950-988f-406a-aa7d-d5203174fc18/signs-of-a-highly-sensitive-person-landscape-1.jpg?top=0&left=213&cropWidth=2176&cropHeight=1224&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "Where a land ethic blooms",
-    "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
-    "author": "Craig Maier",
-    "publishedAt": "2026-09-24T10:00:00.000Z",
-    "date": "24 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/1cd4dc38-6c0f-44aa-85b0-49959f51226b/essay-grassland-ag-2.jpg?width=1200&quality=75&format=auto"
+    "source": "bigthink",
+    "title": "The philosophy of liberalism and how it has transformed our institutions",
+    "url": "https://bigthink.com/series/full-interview/philosophy-of-liberalism/",
+    "author": "Jonathan Rauch",
+    "publishedAt": "2026-09-25T04:00:00.000Z",
+    "date": "25 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-at-2.11.53-PM.png?quality=80&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "The way we talk to bots matters even if they aren’t conscious",
+    "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+    "author": "HennyGe Wichers",
+    "publishedAt": "2026-09-25T10:00:00.000Z",
+    "date": "25 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/bed5ff0b-2b04-40df-933e-f482c2556bc5/sz-michael-kahn-a0gp_asy5vc-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto"
   }
 ]
