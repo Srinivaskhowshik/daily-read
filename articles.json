@@ -1,38 +1,29 @@
 [
   {
     "source": "aeon",
-    "title": "Don’t use the ‘C-word’",
-    "url": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
-    "author": "Matthew R Cooperberg",
-    "publishedAt": "2026-09-29T10:00:00.000Z",
-    "date": "29 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/bb13393b-9cc9-458f-b788-d5a0dc4acb03/essay-final-c0508866-prostate_hyperplasia_lm.jpg?width=1200&quality=75&format=auto"
+    "title": "Passportless mess",
+    "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+    "author": "Aeon Video",
+    "publishedAt": "2026-09-30T10:01:00.000Z",
+    "date": "30 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/dddd78a2-a261-4330-ab89-a4622fdcaecc/passportless-mess-landscape-1.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "A revolution has come in the first of the Big Bang’s 4 cornerstones",
-    "url": "https://bigthink.com/starts-with-a-bang/revolution-first-big-bang-4-cornerstones/",
+    "title": "AI makes its first meaningful breakthrough in theoretical physics",
+    "url": "https://bigthink.com/starts-with-a-bang/ai-first-breakthrough-theoretical-physics/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-09-29T06:00:00.000Z",
-    "date": "29 Sept 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/12/neutratomic-e1790578728575.jpg?quality=85&w=640"
+    "publishedAt": "2026-09-30T06:00:00.000Z",
+    "date": "30 Sept 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/09/imageedit_4_8155811635.png?quality=80&w=640"
   },
   {
     "source": "psyche",
-    "title": "The end of humanity",
-    "url": "https://psyche.co/videos/when-tech-titans-tell-us-to-adapt-or-die-we-neednt-listen",
-    "author": "Psyche Video",
-    "publishedAt": "2026-09-29T10:01:00.000Z",
-    "date": "29 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/b9e1b5f4-1022-4b3e-b06e-05b066e961fd/the-end-of-humanity-landscape-5.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "When you feel moral disgust, what’s the emotion telling you?",
-    "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
-    "author": "Brandon Yip",
-    "publishedAt": "2026-09-29T10:00:00.000Z",
-    "date": "29 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/b492c86e-a58a-44e2-b7bc-e5d002b01225/sz-panos_00374310.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
+    "title": "The full-service grandad",
+    "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
+    "author": "Liam Heneghan",
+    "publishedAt": "2026-09-30T10:00:00.000Z",
+    "date": "30 Sept 2026",
+    "image": "https://images.aeonmedia.co/images/85456ffe-a86c-46c9-b15a-4701002b0c9f/main-iphie-grandad-4-firefly-upscaler-2x-scale.jpg?top=211&left=0&cropWidth=2224&cropHeight=1251&width=1200&quality=75&format=auto"
   }
 ]
