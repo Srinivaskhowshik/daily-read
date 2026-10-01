@@ -1,29 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Passportless mess",
-    "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+    "title": "Green tree ants are famous in the tropics",
+    "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
     "author": "Aeon Video",
-    "publishedAt": "2026-09-30T10:01:00.000Z",
-    "date": "30 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/dddd78a2-a261-4330-ab89-a4622fdcaecc/passportless-mess-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "publishedAt": "2026-10-01T10:01:00.000Z",
+    "date": "1 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/f4924920-abd2-4426-9711-66a5ce51c4a7/green-tree-ants-landscape-1.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "AI makes its first meaningful breakthrough in theoretical physics",
-    "url": "https://bigthink.com/starts-with-a-bang/ai-first-breakthrough-theoretical-physics/",
+    "title": "Quantum fields carry energy. Does that prove that they’re real?",
+    "url": "https://bigthink.com/starts-with-a-bang/quantum-fields-energy/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-09-30T06:00:00.000Z",
-    "date": "30 Sept 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/09/imageedit_4_8155811635.png?quality=80&w=640"
+    "publishedAt": "2026-10-01T06:00:00.000Z",
+    "date": "1 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2021/05/origin-56-e1726775142874.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "The full-service grandad",
-    "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
-    "author": "Liam Heneghan",
-    "publishedAt": "2026-09-30T10:00:00.000Z",
-    "date": "30 Sept 2026",
-    "image": "https://images.aeonmedia.co/images/85456ffe-a86c-46c9-b15a-4701002b0c9f/main-iphie-grandad-4-firefly-upscaler-2x-scale.jpg?top=211&left=0&cropWidth=2224&cropHeight=1251&width=1200&quality=75&format=auto"
+    "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+    "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+    "author": "Sasi S Senga",
+    "publishedAt": "2026-10-01T10:00:00.000Z",
+    "date": "1 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/7fec3aaf-c6f3-4905-abda-0123fa6565d4/sz-brain-scan-tumor.jpg?top=109&left=0&cropWidth=2096&cropHeight=1179&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "aeon",
+    "title": "Reason is more than a tool",
+    "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+    "author": "Sasha Mudd",
+    "publishedAt": "2026-10-01T10:00:00.000Z",
+    "date": "1 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/73768d4d-af29-4f99-ab9e-8a2715230088/esssay-gettyimages-2278740190.jpg?width=1200&quality=75&format=auto"
   }
 ]
