@@ -1,38 +1,47 @@
 [
   {
     "source": "aeon",
-    "title": "Green tree ants are famous in the tropics",
-    "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
-    "author": "Aeon Video",
-    "publishedAt": "2026-10-01T10:01:00.000Z",
-    "date": "1 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/f4924920-abd2-4426-9711-66a5ce51c4a7/green-tree-ants-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "title": "Life on a hair trigger",
+    "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+    "author": "Megan Kang",
+    "publishedAt": "2026-10-02T10:00:00.000Z",
+    "date": "2 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/41e2e3ad-d027-43d2-a055-5890c5f5789b/essay-2021-12-25t171644z_229486544_rc2mlr9fk1lt_rtrmadp_3_usa-guns-chicago.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Quantum fields carry energy. Does that prove that they’re real?",
-    "url": "https://bigthink.com/starts-with-a-bang/quantum-fields-energy/",
+    "title": "Ask Ethan: Do evaporating black holes ever lose their event horizons?",
+    "url": "https://bigthink.com/starts-with-a-bang/evaporating-black-holes-event-horizon/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-10-01T06:00:00.000Z",
-    "date": "1 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2021/05/origin-56-e1726775142874.jpg?quality=85&w=640"
+    "publishedAt": "2026-10-02T06:00:00.000Z",
+    "date": "2 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2022/11/4951.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "Why long-brewing physical and mental breakdowns feel so sudden",
-    "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
-    "author": "Sasi S Senga",
-    "publishedAt": "2026-10-01T10:00:00.000Z",
-    "date": "1 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/7fec3aaf-c6f3-4905-abda-0123fa6565d4/sz-brain-scan-tumor.jpg?top=109&left=0&cropWidth=2096&cropHeight=1179&width=1200&quality=75&format=auto"
+    "title": "Ask me anything",
+    "url": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything",
+    "author": "Psyche Video",
+    "publishedAt": "2026-10-02T10:01:00.000Z",
+    "date": "2 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/f63fc0a2-2863-405f-94f7-55f6be84abed/ask-me-anything-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "Reason is more than a tool",
-    "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
-    "author": "Sasha Mudd",
-    "publishedAt": "2026-10-01T10:00:00.000Z",
-    "date": "1 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/73768d4d-af29-4f99-ab9e-8a2715230088/esssay-gettyimages-2278740190.jpg?width=1200&quality=75&format=auto"
+    "source": "bigthink",
+    "title": "Google CTO: A unifying theory of life, intelligence, and technology",
+    "url": "https://bigthink.com/series/full-interview/agi-life-consciousness/",
+    "author": "Steph McClain",
+    "publishedAt": "2026-10-02T04:00:00.000Z",
+    "date": "2 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-12.23.06-PM.png?quality=80&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "Journaling to remember",
+    "url": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning",
+    "author": "Anandi Mishra",
+    "publishedAt": "2026-10-02T10:00:00.000Z",
+    "date": "2 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/3fc1daf0-40b1-4a5f-a839-bd73f54de722/sz-marcos-paulo-prado-tcyw6im5uug-unsplash.jpg?top=133&left=0&cropWidth=2544&cropHeight=1431&width=1200&quality=75&format=auto"
   }
 ]
