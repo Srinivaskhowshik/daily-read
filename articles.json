@@ -1,56 +1,29 @@
 [
   {
     "source": "aeon",
-    "title": "All-around junior male",
-    "url": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-    "author": "Aeon Video",
-    "publishedAt": "2026-10-05T10:01:00.000Z",
-    "date": "5 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/98d1c630-57c6-439a-903e-98d4dc7d739a/all-around-junior-male-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "title": "How to assemble science",
+    "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+    "author": "Helen Pearson",
+    "publishedAt": "2026-10-06T10:00:00.000Z",
+    "date": "6 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/12748f11-e0ce-47d8-8b35-d2d1018380bc/essay-2016-10-10t000000z_1858079971_d1aeugejeiaa_rtrmadp_3_health-cancer-immunotherapy.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "The leading theory of how life began just hit a snag",
-    "url": "https://bigthink.com/science-tech/the-leading-theory-of-how-life-began-just-hit-a-snag/",
-    "author": "Dirk Schulze-Makuch, Tony Reichhardt",
-    "publishedAt": "2026-10-05T14:07:04.000Z",
-    "date": "5 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/10/origin-of-life_compressed_e352ef.jpg?quality=85&w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "S P A C E S",
-    "url": "https://psyche.co/videos/whats-it-like-to-remember-your-past-but-forget-your-present",
-    "author": "Psyche Video",
-    "publishedAt": "2026-10-05T10:01:00.000Z",
-    "date": "5 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/98a57c72-d34f-4913-a09e-dcec2fb42457/spaces-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "aeon",
-    "title": "A life in episodes",
-    "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
-    "author": "Thomas Söderqvist",
-    "publishedAt": "2026-10-05T10:00:00.000Z",
-    "date": "5 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/add21bb0-e0e1-4a92-8b7a-d0d53f9da477/final-essay.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "bigthink",
-    "title": "Is Olympus Mons really the Solar System’s highest mountain?",
-    "url": "https://bigthink.com/starts-with-a-bang/olympus-mons-solar-system-highest-mountain/",
+    "title": "Pure sulfur discovered on Mars, making Martian concrete possible",
+    "url": "https://bigthink.com/starts-with-a-bang/sulfur-mars-martian-concrete-possible/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-10-05T06:00:00.000Z",
-    "date": "5 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/03/maxresdefault-1024x576-1.jpg?quality=85&w=640"
+    "publishedAt": "2026-10-06T06:00:00.000Z",
+    "date": "6 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/10/coversulfur.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "What does it really take to be a resilient mother?",
-    "url": "https://psyche.co/ideas/what-does-it-really-take-to-be-a-resilient-mother",
-    "author": "Sarah Emmerson",
-    "publishedAt": "2026-10-05T10:00:00.000Z",
-    "date": "5 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/93c51433-8536-498b-ba2e-e261146cf00a/sz-gettyimages-1483348870.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto"
+    "title": "A psychological guide to climbing out of debt",
+    "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
+    "author": "Vicky Reynal",
+    "publishedAt": "2026-10-06T10:00:00.000Z",
+    "date": "6 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/8e55a13e-1426-425d-b027-effc86a923fd/debt-nn11433187.jpg?top=1094&left=0&cropWidth=4992&cropHeight=2808&width=1200&quality=75&format=auto"
   }
 ]
