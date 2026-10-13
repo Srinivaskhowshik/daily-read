@@ -1,29 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Africa’s cultural landmarks: tombs of Buganda kings",
-    "url": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
-    "author": "Aeon Video",
-    "publishedAt": "2026-10-12T10:01:00.000Z",
-    "date": "12 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/997e702c-b6c7-49d1-90b0-e95c41e7c5b5/africa_s-cultural-landmarks-tombs-of-buganda-kings-landscape.jpg?width=1200&quality=75&format=auto"
+    "title": "Deskilling the body",
+    "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+    "author": "Melanie Challenger",
+    "publishedAt": "2026-10-13T10:00:00.000Z",
+    "date": "13 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "7 mind-bending comparisons between the Universe and the human body",
-    "url": "https://bigthink.com/starts-with-a-bang/7-comparisons-universe-human-body/",
-    "author": "Ethan Siegel",
-    "publishedAt": "2026-10-12T06:00:00.000Z",
-    "date": "12 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2021/11/AdobeStock_150772270.jpeg?quality=85&w=640"
+    "title": "CRISPR is capable of more than we initially expected",
+    "url": "https://bigthink.com/the-well/crispr-is-capable-of-more-than-we-initially-expected/",
+    "author": "Jennifer Doudna",
+    "publishedAt": "2026-10-13T13:00:00.000Z",
+    "date": "13 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/10/The_Well_Jennifer_Doudna_FI_Web-1.jpg?quality=85&w=640"
   },
   {
-    "source": "aeon",
-    "title": "Is everything conscious?",
-    "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
-    "author": "Sam Kimpton-Nye",
-    "publishedAt": "2026-10-12T10:00:00.000Z",
-    "date": "12 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/bec1dfcc-28fe-4a77-8345-e232c4bcd475/essay-panos_00227070.jpg?width=1200&quality=75&format=auto"
+    "source": "psyche",
+    "title": "What is hidden in the photographs we keep of each other?",
+    "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
+    "author": "Sawa Kurotani",
+    "publishedAt": "2026-10-13T10:00:00.000Z",
+    "date": "13 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/7ec09957-1082-4f59-aded-7a89a34236f4/main-kurotani-photo-1_hr.jpg?top=281&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "bigthink",
+    "title": "Will the Hubble “constant” ever become an actual constant?",
+    "url": "https://bigthink.com/starts-with-a-bang/hubble-constant-become-actual-constant/",
+    "author": "Ethan Siegel",
+    "publishedAt": "2026-10-13T06:00:00.000Z",
+    "date": "13 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/11/The-Universe-Tentpole-What-was-it-like-at-the-beginning-of-the-Big-Bang.jpg?quality=85&w=640"
   }
 ]
