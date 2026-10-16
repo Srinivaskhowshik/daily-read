@@ -1,38 +1,47 @@
 [
   {
     "source": "aeon",
-    "title": "The secrets of Hohle Fels cave",
-    "url": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
-    "author": "Aeon Video",
-    "publishedAt": "2026-10-15T10:01:00.000Z",
-    "date": "15 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/9f1a0738-66cb-49a0-b67f-285630b0eac7/the-secrets-of-hohle-fels-cave-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "title": "How to be a (Roman) man",
+    "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+    "author": "Catharine Edwards",
+    "publishedAt": "2026-10-16T10:00:00.000Z",
+    "date": "16 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/2ac1e107-fd3a-4df1-9ecf-c703c8eea898/v7-dp328509.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Einstein’s general relativity equations: explained in plain English",
-    "url": "https://bigthink.com/starts-with-a-bang/einstein-general-theory-relativity-equation/",
+    "title": "Ask Ethan: What should humanity’s message to the Universe be?",
+    "url": "https://bigthink.com/starts-with-a-bang/humanity-message-to-universe/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-10-15T06:00:00.000Z",
-    "date": "15 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2021/10/https___blogs-images.forbes.com_startswithabang_files_2018_01_ligo20160211e-1-1200x674-1.jpg?quality=85&w=640"
+    "publishedAt": "2026-10-16T06:00:00.000Z",
+    "date": "16 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/01/202508_FAST-e1792028225170.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "How mental disorders play havoc with our motivation",
-    "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
-    "author": "Matthias Pillny",
-    "publishedAt": "2026-10-15T10:00:00.000Z",
-    "date": "15 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/ccd4b25b-840d-4bdb-a8bf-426e8b70879d/sz-adrian-swancar-imafcyq7kh0-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=auto"
+    "title": "The social construction of emotions",
+    "url": "https://psyche.co/videos/dont-reduce-emotions-to-biology-theyre-contingent-and-emergent",
+    "author": "Psyche Video",
+    "publishedAt": "2026-10-16T10:01:00.000Z",
+    "date": "16 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/c8e6ffb9-5eee-4c86-bd74-de565e13a42d/the-social-construction-of-emotions-landscape-1-v2.jpg?top=170&left=302&cropWidth=1952&cropHeight=1098&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "The ladder of knowledge",
-    "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
-    "author": "Alexander V Gheorghiu",
-    "publishedAt": "2026-10-15T10:00:00.000Z",
-    "date": "15 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/2185ca1b-0c32-4af5-bcf9-3c2def289504/herbert-list-essay-par184662.jpg?width=1200&quality=75&format=auto"
+    "source": "bigthink",
+    "title": "Mimetic desire, social contagion, and the fight for your true self",
+    "url": "https://bigthink.com/series/full-interview/mimetic-desire-contagion/",
+    "author": "Luke Burgis",
+    "publishedAt": "2026-10-16T04:00:00.000Z",
+    "date": "16 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-10.18.55-AM.png?quality=80&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "Deciding to detransition",
+    "url": "https://psyche.co/turning-points/transitioning-made-me-happy-but-it-came-with-a-high-price",
+    "author": "André Aram",
+    "publishedAt": "2026-10-16T10:00:00.000Z",
+    "date": "16 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/2ea2d23e-9af9-4082-8341-903646223552/sz-final-gettyimages-684424382.jpg?top=181&left=0&cropWidth=3472&cropHeight=1953&width=1200&quality=75&format=auto"
   }
 ]
