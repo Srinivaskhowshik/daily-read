@@ -1,47 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "A vocabulary for the future: nature",
-    "url": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
-    "author": "Aeon Video",
-    "publishedAt": "2026-10-19T10:01:00.000Z",
-    "date": "19 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/139bbf22-6495-44df-aaee-cc5418d39c57/a-vocabulary-for-the-future-nature-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "title": "How intuitions work",
+    "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+    "author": "Marc A Moffett",
+    "publishedAt": "2026-10-20T10:00:00.000Z",
+    "date": "20 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/ebbfc9dd-2883-4780-837a-43887f0fbdb5/pessay-ar211874.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "The ultimate key to unlocking the heart of the Milky Way",
-    "url": "https://bigthink.com/starts-with-a-bang/ultimate-key-heart-milky-way/",
+    "title": "MMX mission to reveal the origins of the Martian moons",
+    "url": "https://bigthink.com/starts-with-a-bang/mmx-mission-origins-martian-moons/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-10-19T06:00:00.000Z",
-    "date": "19 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/10/STScI-01EVVH02MMJF67EDPT7GZQ0439.jpg?quality=85&w=640"
+    "publishedAt": "2026-10-20T06:00:00.000Z",
+    "date": "20 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/10/mmx-mars-mission.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "Portraits of another life: Nemo Gould",
-    "url": "https://psyche.co/videos/i-take-silly-very-seriously-a-kinetic-sculptors-credo-of-creation",
-    "author": "Psyche Video",
-    "publishedAt": "2026-10-19T10:01:00.000Z",
-    "date": "19 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/93a223b5-fad2-48ab-b203-aad45eeb404d/nemo-gould-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "aeon",
-    "title": "Horrible, unmanly, indispensable",
-    "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
-    "author": "Catherine Fletcher",
-    "publishedAt": "2026-10-19T10:00:00.000Z",
-    "date": "19 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/d5a13b73-fa43-4d25-a1ff-05f75220297e/essay-the_battle_of_pavia_1525_by_rupert_heller_-_nationalmuseum_stockholm.jpg?width=1200&quality=75&format=auto"
+    "title": "How to overcome task paralysis",
+    "url": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+    "author": "Joe Wilner",
+    "publishedAt": "2026-10-20T10:00:00.000Z",
+    "date": "20 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/97132dde-0fba-4546-bc3b-33b1999cee57/sz-surface-hpw43cbt1lk-unsplash.jpg?top=125&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=auto"
   },
   {
     "source": "psyche",
-    "title": "What life in Denmark shows about the power of emotional safety",
-    "url": "https://psyche.co/ideas/what-life-in-denmark-shows-about-the-power-of-emotional-safety",
-    "author": "Ruth Aharoni Nielsen",
-    "publishedAt": "2026-10-19T10:00:00.000Z",
-    "date": "19 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/9993322b-6a48-4f71-9f43-f1b582fb5233/sz-lon55380.jpg?top=252&left=0&cropWidth=2432&cropHeight=1368&width=1200&quality=75&format=auto"
+    "title": "Are you getting enough sun?",
+    "url": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
+    "author": "Hannah Seo",
+    "publishedAt": "2026-10-20T10:00:00.000Z",
+    "date": "20 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/4bd4e006-07c9-4580-b6df-7c356885e4be/sz-2014-07-27t120000z_1298661931_lm1ea7r16uz01_rtrmadp_3_britain-weather.jpg?top=143&left=0&cropWidth=2448&cropHeight=1377&width=1200&quality=75&format=auto"
   }
 ]
