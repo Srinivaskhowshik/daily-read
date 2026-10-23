@@ -1,47 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Bhutan: the last place",
-    "url": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
-    "author": "Aeon Video",
-    "publishedAt": "2026-10-22T10:01:00.000Z",
-    "date": "22 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/92d2b7d3-2619-4d46-a6ab-15754363e1eb/bhutan-the-last-place-landscape-1-v2.jpg?width=1200&quality=75&format=auto"
+    "title": "Traction!",
+    "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+    "author": "Jennifer R Vail",
+    "publishedAt": "2026-10-23T10:00:00.000Z",
+    "date": "23 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/44e36cdb-f3d7-45b0-8759-ba91f5eb550c/essay-friction.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "The sci-fi inspired “cloaking device” makes invisibility possible",
-    "url": "https://bigthink.com/starts-with-a-bang/invisibility-cloak-183582/",
+    "title": "Ask Ethan: Can we solve the mysteries of the largest black holes?",
+    "url": "https://bigthink.com/starts-with-a-bang/solve-mysteries-largest-black-holes/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-10-22T06:00:00.000Z",
-    "date": "22 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2022/04/hiding-in-plain-sight.webp?quality=85&w=640"
+    "publishedAt": "2026-10-23T06:00:00.000Z",
+    "date": "23 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/02/ssc2019-05b-e1689996818987.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "How to live a life of awe",
-    "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
-    "author": "Psyche Video",
-    "publishedAt": "2026-10-22T10:01:00.000Z",
-    "date": "22 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/a06b67b7-aa2b-45ee-af27-6c06a73bb569/how-to-live-a-life-of-awe-landscape-1-v2.jpg?top=101&left=96&cropWidth=2368&cropHeight=1332&width=1200&quality=75&format=auto"
+    "title": "Can you ever really think what someone else is thinking?",
+    "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+    "author": "Víctor Verdejo",
+    "publishedAt": "2026-10-23T10:00:00.000Z",
+    "date": "23 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/39a6a90b-5d06-4e39-82e1-ea1ab4d1b0e8/sz-2026-03-27t184149z_899378536_rc25dkaeghfu_rtrmadp_3_usa-trump-airports.jpg?top=122&left=0&cropWidth=2336&cropHeight=1314&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "Other people",
-    "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
-    "author": "Elizabeth Oldfield",
-    "publishedAt": "2026-10-22T10:00:00.000Z",
-    "date": "22 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/9bc0eb2d-bb6c-4037-8408-96e841ba02b7/essay-photo-.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "Why romantic relationships matter more to men than to women",
-    "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-    "author": "Iris Wahring",
-    "publishedAt": "2026-10-22T10:00:00.000Z",
-    "date": "22 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/ce463318-1418-4468-a6ae-08a30a8971ff/sz-panos_00073854.jpg?top=117&left=0&cropWidth=2480&cropHeight=1395&width=1200&quality=75&format=auto"
+    "source": "bigthink",
+    "title": "A psychologist’s guide to understanding and spotting narcissism",
+    "url": "https://bigthink.com/series/full-interview/spotting-narcissism-durvasula/",
+    "author": "Steph McClain",
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "date": "23 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-2.46.18-PM.png?quality=80&w=640"
   }
 ]
