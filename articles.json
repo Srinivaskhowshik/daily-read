@@ -1,29 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "The Amarna letters",
-    "url": "https://aeon.co/videos/letters-from-bronze-age-rulers-reveal-how-little-diplomacy-has-changed",
+    "title": "Hills and mountains",
+    "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
     "author": "Aeon Video",
-    "publishedAt": "2026-10-28T10:01:00.000Z",
-    "date": "28 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/51bb3075-2df1-46f3-b68b-aca869e22dbf/the-armana-letters-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "publishedAt": "2026-10-29T10:01:00.000Z",
+    "date": "29 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/ff45dbb1-3bc0-4c05-b179-66f23dd04c84/hills-and-mountains-landscape-1.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "These five divisions define how far we can go in space",
-    "url": "https://bigthink.com/starts-with-a-bang/five-divisions-how-far-space/",
+    "title": "Was dark matter first discovered by Fritz Zwicky or Vera Rubin?",
+    "url": "https://bigthink.com/starts-with-a-bang/who-discovered-dark-matter-fritz-zwicky-vera-rubin/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-10-28T06:00:00.000Z",
-    "date": "28 Oct 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2017_02_Laniakea-Supercluster-1401x716-1-e1793093961600.jpg?quality=85&w=640"
+    "publishedAt": "2026-10-29T06:00:00.000Z",
+    "date": "29 Oct 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5f56ce6f49043e937d1c3ac0_According-to-models-and-simulations-all-galaxies-should-be-embedded-in-dark-matter_960x0.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "The bookshelf builder",
-    "url": "https://psyche.co/portraits/ellah-wakatama-the-godmother-of-african-books",
-    "author": "Carey Baraka",
-    "publishedAt": "2026-10-28T10:00:00.000Z",
-    "date": "28 Oct 2026",
-    "image": "https://images.aeonmedia.co/images/60273164-9332-4838-964a-2547b831a857/ellah-pedzisai-wakatama-09.jpg?top=93&left=3&cropWidth=3296&cropHeight=1854&width=1200&quality=75&format=auto"
+    "title": "When giving up teaches you more than persevering ever could",
+    "url": "https://psyche.co/ideas/when-giving-up-teaches-you-more-than-persevering-ever-could",
+    "author": "Mario I Juarez-Garcia",
+    "publishedAt": "2026-10-29T10:00:00.000Z",
+    "date": "29 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/7de9ad31-6e9d-4918-8dc6-50fcbee2b1e0/sz-gettyimages-1083192412.jpg?top=105&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "aeon",
+    "title": "The physics of getting fired",
+    "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+    "author": "Zahaan Bharmal",
+    "publishedAt": "2026-10-29T10:00:00.000Z",
+    "date": "29 Oct 2026",
+    "image": "https://images.aeonmedia.co/images/afb6d18f-037c-451b-a48b-e7420fcaa8b4/essay-v1-test-v1-jiran-family-4srj_3nontc-unsplash.jpg?width=1200&quality=75&format=auto"
   }
 ]
