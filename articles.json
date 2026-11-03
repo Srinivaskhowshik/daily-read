@@ -1,56 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Jo Marchant: In search of now",
-    "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
-    "author": "Aeon Video",
-    "publishedAt": "2026-11-02T11:01:00.000Z",
-    "date": "2 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/a37af664-ff12-479f-927e-47ae1ede2bf7/jo-marchant-in-search-of-now-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "title": "Believing and thinking",
+    "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+    "author": "Neil Van Leeuwen & Jacob Eisler",
+    "publishedAt": "2026-11-03T11:00:00.000Z",
+    "date": "3 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/40611a3c-3e4d-417a-b2a9-5d3ec4f128a0/essay-gettyimages-1431136250.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Inside the quiet reinvention of corporate learning",
-    "url": "https://bigthink.com/plus/reinvention-of-corporate-learning/",
-    "author": "Lavinia Mehedintu",
-    "publishedAt": "2026-11-02T15:24:42.000Z",
-    "date": "2 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/10/corporate-learning-reinvention.png?quality=80&w=640"
+    "title": "What natural object is the roundest in the Universe?",
+    "url": "https://bigthink.com/starts-with-a-bang/natural-object-roundest-universe/",
+    "author": "Ethan Siegel",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "date": "3 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/11/1479401984-cover-image-l.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "How psychology’s classic studies misled us about the self",
-    "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
-    "author": "Jack W Klein & William B Swann",
-    "publishedAt": "2026-11-02T11:00:00.000Z",
-    "date": "2 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/1ec811de-68ae-4dea-8f17-0fc6058d6c09/sz-gettyimages-2280377751.jpg?top=134&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
+    "title": "Orbites",
+    "url": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
+    "author": "Psyche Video",
+    "publishedAt": "2026-11-03T11:01:00.000Z",
+    "date": "3 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/ffc6c43c-7573-4dc8-aa21-6444b8d6cd9e/orbites-landscape-3-v1.jpg?top=355&left=316&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=auto"
   },
   {
-    "source": "aeon",
-    "title": "The self-making world",
-    "url": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
-    "author": "Jessica Riskin",
-    "publishedAt": "2026-11-02T11:00:00.000Z",
-    "date": "2 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/e7ea39c8-e023-47fb-820f-7a6d68ed3928/essay-humpbacks.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "bigthink",
-    "title": "What makes something real?",
-    "url": "https://bigthink.com/perception-box/what-makes-something-real/",
-    "author": "Lisa Feldman Barrett",
-    "publishedAt": "2026-11-02T14:00:00.000Z",
-    "date": "2 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/10/UC-LBF-Ep-3-Web.png?quality=80&w=640"
-  },
-  {
-    "source": "bigthink",
-    "title": "What Vera Rubin Observatory’s first new dwarf planet means",
-    "url": "https://bigthink.com/starts-with-a-bang/vera-rubin-observatory-first-dwarf-planet/",
-    "author": "Ethan Siegel",
-    "publishedAt": "2026-11-02T07:00:00.000Z",
-    "date": "2 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/noirlab2626b.jpg?quality=85&w=640"
+    "source": "psyche",
+    "title": "That feeling of values crumbling has a name: civic grief",
+    "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+    "author": "Rebecca Lewandowski",
+    "publishedAt": "2026-11-03T11:00:00.000Z",
+    "date": "3 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/7c18a740-843f-4599-8945-6695ff16570c/sz-final-gettyimages-2170760168.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
   }
 ]
