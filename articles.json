@@ -1,38 +1,29 @@
 [
   {
     "source": "aeon",
-    "title": "Believing and thinking",
-    "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
-    "author": "Neil Van Leeuwen & Jacob Eisler",
-    "publishedAt": "2026-11-03T11:00:00.000Z",
-    "date": "3 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/40611a3c-3e4d-417a-b2a9-5d3ec4f128a0/essay-gettyimages-1431136250.jpg?width=1200&quality=75&format=auto"
+    "title": "Like aliens",
+    "url": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
+    "author": "Aeon Video",
+    "publishedAt": "2026-11-04T11:01:00.000Z",
+    "date": "4 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/6f812564-7b90-4b1d-8500-f9d94bcdab28/like-aliens-landscape-2.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "What natural object is the roundest in the Universe?",
-    "url": "https://bigthink.com/starts-with-a-bang/natural-object-roundest-universe/",
+    "title": "A fake Einstein quote actually explains the affordability crisis",
+    "url": "https://bigthink.com/starts-with-a-bang/fake-einstein-quote-affordability-crisis/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "date": "3 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/1479401984-cover-image-l.jpg?quality=85&w=640"
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "date": "4 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/11/cover.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "Orbites",
-    "url": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
-    "author": "Psyche Video",
-    "publishedAt": "2026-11-03T11:01:00.000Z",
-    "date": "3 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/ffc6c43c-7573-4dc8-aa21-6444b8d6cd9e/orbites-landscape-3-v1.jpg?top=355&left=316&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "That feeling of values crumbling has a name: civic grief",
-    "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
-    "author": "Rebecca Lewandowski",
-    "publishedAt": "2026-11-03T11:00:00.000Z",
-    "date": "3 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/7c18a740-843f-4599-8945-6695ff16570c/sz-final-gettyimages-2170760168.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
+    "title": "Baby heaven",
+    "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
+    "author": "Ryan McKay",
+    "publishedAt": "2026-11-04T11:00:00.000Z",
+    "date": "4 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/ea039553-9e26-4e71-b26b-7d0465518731/sz-tommy-bond-5qhbv6pxyy0-unsplash.jpg?top=158&left=0&cropWidth=3024&cropHeight=1701&width=1200&quality=75&format=auto"
   }
 ]
