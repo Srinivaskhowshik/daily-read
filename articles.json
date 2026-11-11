@@ -1,56 +1,29 @@
 [
   {
     "source": "aeon",
-    "title": "The wholehearted life",
-    "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
-    "author": "Ben Daitz",
-    "publishedAt": "2026-11-10T11:00:00.000Z",
-    "date": "10 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/1f0bf1c6-e0ad-490d-b4c1-685617a95d62/essay-from-kodo-dsc02003.jpg?width=1200&quality=75&format=auto"
+    "title": "Decoding Ediacaran fossils",
+    "url": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
+    "author": "Aeon Video",
+    "publishedAt": "2026-11-11T11:01:00.000Z",
+    "date": "11 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/73a5155c-7083-4b72-84ee-77df535bf808/decoding-ediacaran-fossils-landscape-1.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "The origin of the universe is easier to explain than the origin of life",
-    "url": "https://bigthink.com/series/the-big-think-interview/origin-life-universe/",
-    "author": "Paul Davies",
-    "publishedAt": "2026-11-10T14:00:00.000Z",
-    "date": "10 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/A1-Web-Davies-1.jpg?quality=85&w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "Passersby",
-    "url": "https://psyche.co/videos/a-grand-filmmaking-experiment-traces-intersecting-lives-in-los-angeles",
-    "author": "Psyche Video",
-    "publishedAt": "2026-11-10T11:01:00.000Z",
-    "date": "10 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/37b7336a-7db6-47ab-9553-7aebc80a051c/passersby-landscape-1-v1.jpg?top=209&left=207&cropWidth=2176&cropHeight=1224&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "bigthink",
-    "title": "A neuropsychiatrist’s guide to a flourishing life",
-    "url": "https://bigthink.com/the-well/a-neuropsychiatrists-guide-to-a-flourishing-life/",
-    "author": "Iain McGilchrist",
-    "publishedAt": "2026-11-10T14:00:00.000Z",
-    "date": "10 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/The_Well_Ian_McGilchrist_S2_Web.jpg?quality=85&w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "How to help someone whose thinking seems delusional",
-    "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
-    "author": "Laura Yoviene Sykes",
-    "publishedAt": "2026-11-10T11:00:00.000Z",
-    "date": "10 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/4efd719d-b525-46c0-b052-833236a0fdd3/sz-final-par377555.jpg?top=146&left=0&cropWidth=2800&cropHeight=1575&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "bigthink",
-    "title": "5 big astronomy “facts” that changed in the 21st century",
-    "url": "https://bigthink.com/starts-with-a-bang/5-astronomy-facts-changed-21st-century/",
+    "title": "AI proved a major quantum complexity conjecture. What does it mean?",
+    "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-11-10T07:00:00.000Z",
-    "date": "10 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/11/uhz1_illus.jpg?quality=85&w=640"
+    "publishedAt": "2026-11-11T07:00:00.000Z",
+    "date": "11 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2019/10/origin-47-e1794296443845.jpg?quality=85&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "Why ‘patient influencers’ should come with a health warning",
+    "url": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
+    "author": "Zoe Cunniffe",
+    "publishedAt": "2026-11-11T11:00:00.000Z",
+    "date": "11 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/7e28b2b6-7e01-4091-bd7a-da03f9bdd262/sz-this-gettyimages-1207479876.jpg?top=64&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=auto"
   }
 ]
