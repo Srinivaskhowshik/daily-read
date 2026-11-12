@@ -1,29 +1,56 @@
 [
   {
     "source": "aeon",
-    "title": "Decoding Ediacaran fossils",
-    "url": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
+    "title": "My grandfather been tell me a lot of story about Lasseter",
+    "url": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
     "author": "Aeon Video",
-    "publishedAt": "2026-11-11T11:01:00.000Z",
-    "date": "11 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/73a5155c-7083-4b72-84ee-77df535bf808/decoding-ediacaran-fossils-landscape-1.jpg?width=1200&quality=75&format=auto"
+    "publishedAt": "2026-11-12T11:01:00.000Z",
+    "date": "12 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/02c07749-78d1-493a-a9e1-7e47e869d59a/nyinuta-nora-abbott-landscape-2.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "AI proved a major quantum complexity conjecture. What does it mean?",
-    "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
-    "author": "Ethan Siegel",
-    "publishedAt": "2026-11-11T07:00:00.000Z",
-    "date": "11 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2019/10/origin-47-e1794296443845.jpg?quality=85&w=640"
+    "title": "Scholars still can’t define religion. Here’s why",
+    "url": "https://bigthink.com/series/conversations/andrew-henry-defining-religion/",
+    "author": "Andrew Henry, Jonny Thomson",
+    "publishedAt": "2026-11-12T14:00:00.000Z",
+    "date": "12 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/11/MPP4_Andrew_Henry1-for_Website.png?quality=80&w=640"
   },
   {
     "source": "psyche",
-    "title": "Why ‘patient influencers’ should come with a health warning",
-    "url": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
-    "author": "Zoe Cunniffe",
-    "publishedAt": "2026-11-11T11:00:00.000Z",
-    "date": "11 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/7e28b2b6-7e01-4091-bd7a-da03f9bdd262/sz-this-gettyimages-1207479876.jpg?top=64&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=auto"
+    "title": "Eye on the mark",
+    "url": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
+    "author": "Shayla Love",
+    "publishedAt": "2026-11-12T11:00:00.000Z",
+    "date": "12 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/185da0c4-a9b1-4d6e-848f-80b475a73fa9/psychea-w1.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "aeon",
+    "title": "Why anything exists",
+    "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+    "author": "Andrew T Brenner",
+    "publishedAt": "2026-11-12T11:00:00.000Z",
+    "date": "12 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/72b5e07e-102f-40ec-b0e7-0f8234e7ae07/essay-v1-dp279306.jpg?width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "bigthink",
+    "title": "A “theory” has a special meaning in science",
+    "url": "https://bigthink.com/starts-with-a-bang/never-tell-scientist-just-a-theory/",
+    "author": "Ethan Siegel",
+    "publishedAt": "2026-11-12T07:00:00.000Z",
+    "date": "12 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2021/10/601259main_jetpack_full-e1693266087570.jpg?quality=85&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+    "url": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+    "author": "Giacomo Floris",
+    "publishedAt": "2026-11-12T11:00:00.000Z",
+    "date": "12 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/9418b37e-751a-49b7-98c6-6090f2472c77/sz-final-2023-05-03t223620z_724465317_rc20r0aw7wfg_rtrmadp_3_usa-dailylife.jpg?top=287&left=2&cropWidth=2800&cropHeight=1575&width=1200&quality=75&format=auto"
   }
 ]
