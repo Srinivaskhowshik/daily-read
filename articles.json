@@ -1,56 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "My grandfather been tell me a lot of story about Lasseter",
-    "url": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
-    "author": "Aeon Video",
-    "publishedAt": "2026-11-12T11:01:00.000Z",
-    "date": "12 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/02c07749-78d1-493a-a9e1-7e47e869d59a/nyinuta-nora-abbott-landscape-2.jpg?width=1200&quality=75&format=auto"
+    "title": "Fugitive imagination",
+    "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+    "author": "Shahram Khosravi",
+    "publishedAt": "2026-11-13T11:00:00.000Z",
+    "date": "13 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/250df91b-cb37-49ba-b1b1-4c14f75bb40e/essay-panos_00206717.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Scholars still can’t define religion. Here’s why",
-    "url": "https://bigthink.com/series/conversations/andrew-henry-defining-religion/",
-    "author": "Andrew Henry, Jonny Thomson",
-    "publishedAt": "2026-11-12T14:00:00.000Z",
-    "date": "12 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/MPP4_Andrew_Henry1-for_Website.png?quality=80&w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "Eye on the mark",
-    "url": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
-    "author": "Shayla Love",
-    "publishedAt": "2026-11-12T11:00:00.000Z",
-    "date": "12 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/185da0c4-a9b1-4d6e-848f-80b475a73fa9/psychea-w1.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "aeon",
-    "title": "Why anything exists",
-    "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
-    "author": "Andrew T Brenner",
-    "publishedAt": "2026-11-12T11:00:00.000Z",
-    "date": "12 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/72b5e07e-102f-40ec-b0e7-0f8234e7ae07/essay-v1-dp279306.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "bigthink",
-    "title": "A “theory” has a special meaning in science",
-    "url": "https://bigthink.com/starts-with-a-bang/never-tell-scientist-just-a-theory/",
+    "title": "Ask Ethan: Can you write a beginner’s guide to the Standard Model?",
+    "url": "https://bigthink.com/starts-with-a-bang/beginners-guide-standard-model/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-11-12T07:00:00.000Z",
-    "date": "12 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2021/10/601259main_jetpack_full-e1693266087570.jpg?quality=85&w=640"
+    "publishedAt": "2026-11-13T07:00:00.000Z",
+    "date": "13 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/04/SM-Cover.jpg?quality=85&w=640"
   },
   {
     "source": "psyche",
-    "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-    "url": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
-    "author": "Giacomo Floris",
-    "publishedAt": "2026-11-12T11:00:00.000Z",
-    "date": "12 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/9418b37e-751a-49b7-98c6-6090f2472c77/sz-final-2023-05-03t223620z_724465317_rc20r0aw7wfg_rtrmadp_3_usa-dailylife.jpg?top=287&left=2&cropWidth=2800&cropHeight=1575&width=1200&quality=75&format=auto"
+    "title": "The power of group thought",
+    "url": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
+    "author": "Psyche Video",
+    "publishedAt": "2026-11-13T11:01:00.000Z",
+    "date": "13 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/1616da12-e7d8-4291-8c07-6ba0d9baf4e8/the-power-of-group-thought-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "psyche",
+    "title": "My friend, my witness",
+    "url": "https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend",
+    "author": "Ashwaq Masoodi",
+    "publishedAt": "2026-11-13T11:00:00.000Z",
+    "date": "13 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/3d33c705-5a17-49bc-913f-6ed90498a718/this-sz-2026-01-27t111347z_52683355_rc2e9ja6zh76_rtrmadp_3_india-weather.jpg?top=295&left=0&cropWidth=2736&cropHeight=1539&width=1200&quality=75&format=auto"
   }
 ]
