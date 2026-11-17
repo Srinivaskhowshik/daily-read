@@ -1,47 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "The last klavern",
-    "url": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters",
-    "author": "Aeon Video",
-    "publishedAt": "2026-11-16T11:01:00.000Z",
-    "date": "16 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/3758ffc1-9a88-42df-b85d-9576ad7f3d5a/last-klavern-cover.jpg?width=1200&quality=75&format=auto"
+    "title": "Catwalks and crackdowns",
+    "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+    "author": "Parisa Khoshnami",
+    "publishedAt": "2026-11-17T11:00:00.000Z",
+    "date": "17 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/aadc8bad-88e2-4670-bc0a-b6a8c5190408/essay-gettyimages-2294390691.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "Astronomers weigh the Milky Way’s mass at long last",
-    "url": "https://bigthink.com/starts-with-a-bang/astronomers-weigh-milky-way/",
+    "title": "How to navigate the world with two halves of one brain",
+    "url": "https://bigthink.com/the-well/how-to-navigate-the-world-with-two-halves-of-one-brain/",
+    "author": "Iain McGilchrist",
+    "publishedAt": "2026-11-17T14:00:00.000Z",
+    "date": "17 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/11/The_Well_Ian_McGilchrist_FI_Web.jpg?quality=85&w=640"
+  },
+  {
+    "source": "psyche",
+    "title": "The cultural rules that define us take shape in our homes",
+    "url": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
+    "author": "Oliver Sweet",
+    "publishedAt": "2026-11-17T11:00:00.000Z",
+    "date": "17 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/42c851db-c6a5-4036-856f-00f82133a46d/sz-panos_00265061.jpg?top=132&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "bigthink",
+    "title": "8 size and distance comparisons: from subatomic to cosmic",
+    "url": "https://bigthink.com/starts-with-a-bang/size-distance-comparison-subatomic-cosmic/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-11-16T07:00:00.000Z",
-    "date": "16 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/UGC_12158.jpg?quality=85&w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "Against the tide",
-    "url": "https://psyche.co/videos/the-trade-offs-of-life-in-a-remote-off-the-grid-island-community",
-    "author": "Psyche Video",
-    "publishedAt": "2026-11-16T11:01:00.000Z",
-    "date": "16 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/a7b05d5c-274d-40f6-a72b-292053d695c3/against-the-tide-landscape-2v2.jpg?top=21&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "aeon",
-    "title": "The horse made the state",
-    "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
-    "author": "Lhamsuren Munkh-Erdene",
-    "publishedAt": "2026-11-16T11:00:00.000Z",
-    "date": "16 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/60bea515-b55f-48e9-9e81-4fe8bf8afde7/essay-uncavaliersurunepetiteeminencesurlagrandeplacedumarche_cadrageplusserre_a70091x.jpg?width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "psyche",
-    "title": "After Ma and Pa",
-    "url": "https://psyche.co/turning-points/after-my-parents-died-why-did-i-hold-on-to-their-home",
-    "author": "Susan Hornik",
-    "publishedAt": "2026-11-16T11:00:00.000Z",
-    "date": "16 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/a1263f8c-7299-4f63-a96c-da13673ae769/test-collage-v2-.jpg?top=156&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=auto"
+    "publishedAt": "2026-11-17T07:00:00.000Z",
+    "date": "17 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2022/05/Star_Sizes_Comparison_update_2021-e1794819221298.png?quality=80&w=640"
   }
 ]
