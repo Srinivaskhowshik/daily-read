@@ -1,38 +1,29 @@
 [
   {
     "source": "aeon",
-    "title": "Dreams of birds",
-    "url": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs",
+    "title": "Wunderkammer",
+    "url": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
     "author": "Aeon Video",
-    "publishedAt": "2026-11-18T11:01:00.000Z",
-    "date": "18 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/f6569bab-ec9d-4c43-b83d-aba8d9e34b4d/dreams-of-birds-cover.jpg?width=1200&quality=75&format=auto"
+    "publishedAt": "2026-11-19T11:01:00.000Z",
+    "date": "19 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/764cf5a9-204d-4dff-9e60-f1771f9262c0/wunderkammer-cover.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "The surprising science of awe — and what it reveals about consciousness",
-    "url": "https://bigthink.com/the-well/the-surprising-science-of-awe-and-what-it-reveals-about-consciousness/",
-    "author": "Valerie van Mulukom",
-    "publishedAt": "2026-11-18T14:00:00.000Z",
-    "date": "18 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/awe-science-joshua-tree-lead.gif?w=640"
-  },
-  {
-    "source": "psyche",
-    "title": "Traces of home",
-    "url": "https://psyche.co/turning-points/a-screenshot-is-precious-when-my-family-in-iran-is-out-of-reach",
-    "author": "Elaheh Shabani Afarani",
-    "publishedAt": "2026-11-18T11:00:00.000Z",
-    "date": "18 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/ae629c29-c170-4cd0-805a-c9dd7a72fe6b/test-v2-.jpg?top=88&left=0&cropWidth=1680&cropHeight=945&width=1200&quality=75&format=auto"
-  },
-  {
-    "source": "bigthink",
-    "title": "How Voyager 1 became the first spacecraft to reach one light-day",
-    "url": "https://bigthink.com/starts-with-a-bang/voyager-1-one-light-day/",
+    "title": "NASA’s next flagship to answer the biggest question: “Are we alone?”",
+    "url": "https://bigthink.com/starts-with-a-bang/habitable-worlds-observatory-are-we-alone/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-11-18T07:00:00.000Z",
-    "date": "18 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2026/11/1793829338344-2-2560.jpg?quality=85&w=640"
+    "publishedAt": "2026-11-19T07:00:00.000Z",
+    "date": "19 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2023/02/1472_living_planet-16.jpg?quality=85&w=640"
+  },
+  {
+    "source": "aeon",
+    "title": "At least it remembers",
+    "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+    "author": "Tom Wooldridge",
+    "publishedAt": "2026-11-19T11:00:00.000Z",
+    "date": "19 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/67889061-dbb5-4c47-87eb-21851f330133/essay-gettyimages-1950705233.jpg?width=1200&quality=75&format=auto"
   }
 ]
