@@ -1,29 +1,38 @@
 [
   {
     "source": "aeon",
-    "title": "Wunderkammer",
-    "url": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
-    "author": "Aeon Video",
-    "publishedAt": "2026-11-19T11:01:00.000Z",
-    "date": "19 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/764cf5a9-204d-4dff-9e60-f1771f9262c0/wunderkammer-cover.jpg?width=1200&quality=75&format=auto"
+    "title": "My grandmother was a seal",
+    "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+    "author": "Jordan Lee Borgman",
+    "publishedAt": "2026-11-20T11:00:00.000Z",
+    "date": "20 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/0cd99f4c-ddf6-43aa-b167-ea096fe4a0e7/essay-selkie-final-illustration.jpg?width=1200&quality=75&format=auto"
   },
   {
     "source": "bigthink",
-    "title": "NASA’s next flagship to answer the biggest question: “Are we alone?”",
-    "url": "https://bigthink.com/starts-with-a-bang/habitable-worlds-observatory-are-we-alone/",
+    "title": "Ask Ethan: Do polonium radiohalos support a young Earth?",
+    "url": "https://bigthink.com/starts-with-a-bang/polonium-radiohalos-young-earth/",
     "author": "Ethan Siegel",
-    "publishedAt": "2026-11-19T07:00:00.000Z",
-    "date": "19 Nov 2026",
-    "image": "https://bigthink.com/wp-content/uploads/2023/02/1472_living_planet-16.jpg?quality=85&w=640"
+    "publishedAt": "2026-11-20T07:00:00.000Z",
+    "date": "20 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2022/01/https___specials-images.forbesimg.com_imageserve_6035c1a2145a513cc41eb5f8_A-cross-section-of-the-Wealden-Dome-in-the-south-of-England-_960x0.png?quality=80&w=640"
   },
   {
-    "source": "aeon",
-    "title": "At least it remembers",
-    "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
-    "author": "Tom Wooldridge",
-    "publishedAt": "2026-11-19T11:00:00.000Z",
-    "date": "19 Nov 2026",
-    "image": "https://images.aeonmedia.co/images/67889061-dbb5-4c47-87eb-21851f330133/essay-gettyimages-1950705233.jpg?width=1200&quality=75&format=auto"
+    "source": "psyche",
+    "title": "The end of Xanadu",
+    "url": "https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him",
+    "author": "Henrick Karoliszyn",
+    "publishedAt": "2026-11-20T11:00:00.000Z",
+    "date": "20 Nov 2026",
+    "image": "https://images.aeonmedia.co/images/48a08e0b-f3cf-401c-9b85-ad8912f65b20/main-essay.jpg?top=131&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=auto"
+  },
+  {
+    "source": "bigthink",
+    "title": "The black hole information paradox",
+    "url": "https://bigthink.com/series/full-interview/black-holes-greene/",
+    "author": "Brian Greene",
+    "publishedAt": "2026-11-20T05:00:00.000Z",
+    "date": "20 Nov 2026",
+    "image": "https://bigthink.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-4.56.26-PM.png?quality=80&w=640"
   }
 ]
